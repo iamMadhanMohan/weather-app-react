@@ -4,7 +4,7 @@ https://iammadhanmohan.github.io/weather-app-react/
 ## Project Details
 Api Based Project
 
-title : weather-app
-technologies : react, html, css
+Title : weather-app
+Technologies : react, html, css
 ide : Vs code
-api : open weather api website
+Api : open weather api website
